@@ -1,0 +1,128 @@
+,text,correct,doc,pages
+0,"Bonjour, je souhaiterais imprimer ce document doc1 qui fait 11 pages.",1,doc1,11.0
+1,"Salut à toi, je veux imprimer mondoc qui contient 4 pages.",1,mondoc,4.0
+2,Imprime moi ce document de 21 pages qui se nomme doc2,1,doc2,21.0
+3,Imprime moi ce document de 129 pages nommé doc3,1,doc3,129.0
+4,"Salut l'imprimante, tu peux imprimer liversegmentation qui fait 4 pages? Merci",1,liversegmentation,4.0
+5,"Bonjour, je voudrais imprimer ce document ter-rendu de 11 pages.",1,ter-rendu,11.0
+6,"Salut, tu peux imprimer texteaimprimer il y a 2100 pages",1,texteaimprimer,2100.0
+7,imprime mondocument qui fait 32 pages merci,1,mondocument,32.0
+8,impression doc7 37 pages,1,doc7,37.0
+9,imprime toto 26 pages,1,toto,26.0
+10,imprime mon document doctop qui fait 11265 pages,1,doctop,11265.0
+11,salut tu peux imprimer ce document doctoto qui fait 200 pages ?,1,doctoto,200.0
+12,tirage du document résumé à 1802 pages,1,résumé,1802.0
+13,tirage doc2 1800 pages,1,doc2,1800.0
+14,impression document doc98 avec 202 pages,1,doc98,202.0
+15,Je voudrais imprimer un document de 84 pages qui s'appelle docpro,1,docpro,84.0
+16,Je veux imprimer anglais2 de 66 pages,1,anglais2,66.0
+17,impression doc2 de 15 pages merci,1,doc2,15.0
+18,Serait-il possible d'imprimer doc12 qui fait 12 pages ?,1,doc12,12.0
+19,"Bonjour, je souhaiterais imprimer un document de 2 pages qui s'appelle monessai",1,monessai,2.0
+20,imprime mon document doctop qui fait 1 page,1,doctop,1.0
+21,Imprime moi ce document de 1 page qui se nomme anglais,1,anglais,1.0
+22,"Bonjour, je voudrais imprimer doc1 de 16 pages.",1,doc1,16.0
+23,impression,0,,
+24,imprime mondoc,0,,
+25,imprice doc6 qui fait 12 pages,0,,
+26,c'est quoi ça,0,,
+27,une phrase inutile,0,,
+28,bonjour l'imprimante,0,,
+29,imprime mondoc,0,,
+30,impression document terdoc avec -4 pages,0,,
+31,imprime mon document doctop qui fait -51 pages,0,,
+32,impression document doc98 avec 0 pages,0,,
+33,imprime mon document doctop qui fait 0 pages,0,,
+34,bonjourtupeux imprimer mondoc à 154 pages,0,,
+35,bonjour tu peuximprimer monessai à 99 pages,0,,
+36,impression 1500 pages,0,,
+37,imprime ce document de 208 pages,0,,
+38,imprimer document doc2,0,,
+39,imprimerdoc teressai de 1500 pages,0,,
+40,impression 0 page,0,,
+41,imprime ce document 208 de doc2 pages,0,,
+42,doc2 15 pages à imprimer,0,,
+43,document de 23 pages à imprimer,0,,
+44,imprimer 63 pages,0,,
+45,imprimer résumé,0,,
+46,impression mondoc,0,,
+47,tirage toto 1800pages,0,,
+48,imprimedoc9 26 pages,0,,
+49,bonjour le robot.photocopie moi document.pdf qui fait 263 pages stp # 1 # document.pdf # 263,1,document.pdf,263.0
+50,copie ledocument 9 pages,1,ledocument,9.0
+51,copie undocument qui fait 74 page avant demain 14 heures si possible,1,undocument,74.0
+52,imprime documenta625 il a 1 pages.,1,documenta625,1.0
+53,salut robot go imprimer doc3.pdf de 3 pages asap ,1,doc3.pdf,3.0
+54,estce que tu peux photocopier livre7 ? il fait 635 pages,1,livre7,635.0
+55,faire impression de doc35.txt 74 pages,1,doc35.txt,74.0
+56,bonjour imprime moi docu7 de 7 pages ,1,docu7,7.0
+57,"fait moi une copie de livre21 , 78 pages",1,livre21,78.0
+58,imprime doc26 87 pages,1,doc26,87.0
+59,"salut, comment vas ? imprime doc2 de 200 pages asap",1,doc2,200.0
+60,imprime ce document : doc99 il fait 41 pages,1,doc99,41.0
+61,imprime le fichier nommé document de 78 pages ,1,document,78.0
+62,"je serait fort aise de te voir m'inprimer Document23 , contenant 652 pages. Merci d'avance",1,Document23,652.0
+63,coucou photocopie moi le document Livre74 de 123 pages,1,Livre74,123.0
+64,go impression document25 87 pages,1,document25,87.0
+65,impression document78 464 pages,1,document78,464.0
+66,fait moi une copie de livre24  avec 787 pages,1,livre24,787.0
+67,photocopie de Doc774 avec 852 pages,1,Doc774,852.0
+68,il est 13 heures ,0,,
+69,est ce que mon document sera imprimé d'ici 12 heures 25 ?,0,,
+70,"f,ic b dqlffv dfsjmk qf:kdjs s sdqjf",0,,
+71,copie ledocument8 s'il te plait,0,,
+72,photocopie moi 25 pages pls,0,,
+73,bonjour le robot go manger des pates et le chevalier a 8 pages.,0,,
+74,photocopie zldsfq pls ,0,,
+75,bonjour,0,,
+76,comment ca va mec ?,0,,
+77,j'ai 25 document ca te vas ?,0,,
+78,hello how are you ,0,,
+79,help,0,,
+80,fmqdsnkkldnvjsndsqfkjlsfdl,0,,
+81,imprime moi un document de 21 pages pls,0,,
+82,bonjour ,0,,
+83,au revoir,0,,
+84,imprime document54 pls,0,,
+85,go impression document25,0,,
+86,faire impression de doc357,0,,
+87,"Bonjour, je veux imprimer document5 qui contiens 29 pages",1,document5,29.0
+88,Imprime les 3 pages de foo,1,foo,3.0
+89,impression de rapport 18 pages,1,rapport,18.0
+90,"Salut, imprime 20 pages qui composent le doc resume",1,resume,20.0
+91,Lance l'impression de bob qui à 10 pages,1,bob,10.0
+92,Imprime doc1 pages : 3,1,doc1,3.0
+93,Je veux imprimer 2 pages,1,plan,2.0
+94,Imprime 6 pages de Document,1,Document,6.0
+95,Je souhaite imprimer le fichier foo avec 2 pages,1,foo,2.0
+96,Imprime 6 pages de chat,1,chat,6.0
+97,Je veux imprimer mon mémoire : mémoire de 50 pages,1,mémoire,50.0
+98,Imprime ma carte d'identité carte 2 pages,1,carte,2.0
+99,Peux-tu imprimer file 42 pages,1,file,42.0
+100,1 page de bob à imprimer,1,bob,1.0
+101,Imprime SdSc composé de 4 pages,1,SdSc,4.0
+102,Imprime ticket de 13 pages,1,ticket,13.0
+103,Lance l'impression de document38 qui à 42 pages,1,document38,42.0
+104,Je veux imprimer fichier7 composé de 29 pages,1,fichier7,29.0
+105,Imprime vbqkqeuhq avec 10 pages,1,vbqkqeuhq,10.0
+106,Lance l'impression du document document de 3 pages,1,document,3.0
+107,voilbnoil,0,,
+108,Imprime document,0,,
+109,Je veux imprimer 19 pages,0,,
+110,Imprime document qui à 27,0,,
+111,"Bonjour, comment vas-tu ?",0,,
+112,Puis-je imprimer un document,0,,
+113,Je souhaite imprimerun document avec 2 pages,0,,
+114,Imprime 6 copies de Document4,0,,
+115,Lance l'impression de 10 documents,0,,
+116,Je veux 2 exemplaires de fichier,0,,
+117,J'ai 4 pages à imprimer,0,,
+118,Imprime moi doc7,0,,
+119,Lance 1 impression de document4,0,,
+120,Imprime 4 pages de ce document,0,,
+121,bsrb s,0,,
+122,impr doc pgs,0,,
+123,Impression de rapport,0,,
+124,"Bnjour, je voudrais imprimer 8 pages",0,,
+125,"Bonjour, je veux imprimer document5",0,,
+126,Quel temps fait-il aujourd'hui,0,,
