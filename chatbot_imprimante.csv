@@ -29,11 +29,9 @@
 27,une phrase inutile,0,,
 28,bonjour l'imprimante,0,,
 29,imprime mondoc,0,,
-30,impression document terdoc avec -4 pages,0,,
-31,imprime mon document doctop qui fait -51 pages,0,,
-32,impression document doc98 avec 0 pages,0,,
-33,imprime mon document doctop qui fait 0 pages,0,,
-34,bonjourtupeux imprimer mondoc à 154 pages,0,,
+32,impression document doc98 avec 0 pages,1,doc98,0.0
+33,imprime mon document doctop qui fait 0 pages,0,doctop,0.0
+34,bonjourtupeux imprimer mondoc à 154 pages,0,mondoc,154
 35,bonjour tu peuximprimer monessai à 99 pages,0,,
 36,impression 1500 pages,0,,
 37,imprime ce document de 208 pages,0,,
